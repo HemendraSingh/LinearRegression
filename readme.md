@@ -1,0 +1,1 @@
+A simple python application for doing Linear Regression using scikit_learn, numpy and matplotlib.
