@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Model
+lrm_model.sav
+
+# VS Code settings
+settings.json
